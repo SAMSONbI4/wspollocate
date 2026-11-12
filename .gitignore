@@ -1,0 +1,40 @@
+# Only the website and its development files belong in this repository.
+/*
+!/.gitignore
+!/.gitattributes
+!/index.html
+!/package.json
+!/README.md
+!/start.bat
+!/src/
+!/assets/
+!/scripts/
+!/tests/
+
+# Local design sources, reference material and generated context.
+*.fig
+*.figjam
+*.zip
+*.pdf
+MEMOIRE*.md
+DESIGN_CONTEXT.md
+design-system-state.json
+references/
+design-assets/
+assets/photos/prompts.json
+
+# Secrets, dependencies, caches and machine-specific files.
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

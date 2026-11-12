@@ -1,0 +1,8 @@
+{
+  "name": "szukam-wspollokatora",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Student project: Pearl & Ink responsive roommate finder prototype",
+  "scripts": { "test": "node --test" }
+}

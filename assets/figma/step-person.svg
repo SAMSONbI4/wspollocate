@@ -1,0 +1,13 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="200" height="110" viewBox="0 0 200 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Pearl / Atoms / StepArt / Person">
+<path id="Vector" d="M147 8H53C43.0589 8 35 16.0589 35 26V84C35 93.9411 43.0589 102 53 102H147C156.941 102 165 93.9411 165 84V26C165 16.0589 156.941 8 147 8Z" fill="white" fill-opacity="0.7" stroke="#9DC8C7"/>
+<path id="Vector_2" d="M75 60C84.9411 60 93 51.9411 93 42C93 32.0589 84.9411 24 75 24C65.0589 24 57 32.0589 57 42C57 51.9411 65.0589 60 75 60Z" fill="#F3CEAE"/>
+<path id="Vector_3" d="M49 86C49 59 101 59 101 86Z" fill="#7EB5B4"/>
+<g id="Vector_4">
+<path d="M110 34H145ZM110 46H135ZM100 59H130Z" fill="black"/>
+<path d="M110 34H145M110 46H135M100 59H130" stroke-width="5" stroke-linecap="round" stroke="#597A78"/>
+</g>
+<path id="Vector_5" d="M157 105C168.046 105 177 96.0457 177 85C177 73.9543 168.046 65 157 65C145.954 65 137 73.9543 137 85C137 96.0457 145.954 105 157 105Z" fill="#173C3C"/>
+<path id="Vector_6" d="M147 85L154 92L167 77" stroke-width="3" stroke-linecap="round" stroke="white"/>
+</g>
+</svg>

@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Znajdź pokój lub osobę do wspólnego wynajmu w Krakowie. Projekt studencki współlocate.">
+    <meta name="theme-color" content="#eef3ef">
+    <title>współlocate</title>
+    <link rel="icon" href="./assets/figma/brand.svg" type="image/svg+xml">
+    <link rel="preload" href="./assets/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="./src/styles/base.css">
+  </head>
+  <body>
+    <div class="ambient" aria-hidden="true"><span class="lagoon"></span><span class="apricot"></span><span class="mint"></span></div>
+    <a class="skip-link" href="#main">Przejdź do treści</a>
+    <div class="app-shell">
+      <header class="site-header glass" id="site-header"></header>
+      <main id="main" tabindex="-1"></main>
+      <footer id="site-footer"></footer>
+    </div>
+    <nav id="mobile-nav" class="mobile-nav glass" aria-label="Nawigacja mobilna"></nav>
+    <div id="route-status" class="visually-hidden" aria-live="polite"></div>
+    <noscript><p class="noscript">Włącz JavaScript, aby przeglądać ogłoszenia.</p></noscript>
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>

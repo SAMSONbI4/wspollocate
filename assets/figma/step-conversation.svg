@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="200" height="110" viewBox="0 0 200 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Pearl / Atoms / StepArt / Conversation">
+<path id="Vector" d="M115 15H36C26.0589 15 18 23.0589 18 33V56C18 65.9411 26.0589 74 36 74H115C124.941 74 133 65.9411 133 56V33C133 23.0589 124.941 15 115 15Z" fill="white" fill-opacity="0.8" stroke="#9DC8C7"/>
+<path id="Vector_2" d="M39 74L32 88L58 74" fill="white" fill-opacity="0.8"/>
+<g id="Vector_3">
+<path d="M37 35H109ZM37 51H82Z" fill="black"/>
+<path d="M37 35H109M37 51H82" stroke-width="5" stroke-linecap="round" stroke="#719F9D"/>
+</g>
+<path id="Vector_4" d="M168 57H113C103.059 57 95 65.0589 95 75V79C95 88.9411 103.059 97 113 97H168C177.941 97 186 88.9411 186 79V75C186 65.0589 177.941 57 168 57Z" fill="#173C3C"/>
+<g id="Vector_5">
+<path d="M116 77H162Z" fill="black"/>
+<path d="M116 77H162" stroke-width="4" stroke-linecap="round" stroke="white"/>
+</g>
+</g>
+</svg>
